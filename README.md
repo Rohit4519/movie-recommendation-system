@@ -17,5 +17,5 @@ This is a content-based movie recommender system built with **Streamlit**. The a
 - **Pickle (for model and data loading)**
 - **TMDB API** (for fetching movie posters)
 
-## 📁 Project Structure
+
 
